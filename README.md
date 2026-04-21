@@ -1,4 +1,4 @@
-<img width="968" height="94" alt="image" src="https://github.com/user-attachments/assets/b31c8cfe-a54c-425b-8cf3-616436dd166c" /># machine-learning-iot-cybersecurity
+# machine-learning-iot-cybersecurity
 Machine Learning project to predict network flow duration in IoT environments using RT-IoT2022 dataset. 
 
 ## Project Overview
